@@ -138,6 +138,7 @@ img {
   left: 0;
   z-index: var(--z-fixed);
   background-color: var(--first-color);
+  box-shadow: 0 0 120px #5419a188;
 }
 
 /* NAV */
